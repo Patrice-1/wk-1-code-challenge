@@ -63,4 +63,4 @@ Contains 3 projects.
     >70 prints "ok", and gives a demerit of 1 point for every 5km/s above 70 and then prints out.
 
 3. Net Salary Calculator- calculates an individual's net salary using inputs of basic salary and benefits.
-4. It also gives Payee, NHIF Deductions, NSSF Deductions plus Gross Salary as its output    
+   It also gives Payee, NHIF Deductions, NSSF Deductions plus Gross Salary as its output    
